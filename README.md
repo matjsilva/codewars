@@ -6,3 +6,4 @@
 
 <h4 align="center">
   Here are some solutions i've made for codewars problems during my python study week, in this week i've climbed up 4 ranks (from 8 kyu to 4 kyu), surely that was amazing, this gave me a space between the top 10 thousand codewars best programmers. 
+ </h4>
